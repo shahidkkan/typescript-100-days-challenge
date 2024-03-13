@@ -1,0 +1,15 @@
+var mycar = "Alto";
+console.log(mycar = "Alto");
+var myfruit = "apple";
+console.log(myfruit);
+var myArray = [13, 3, 9,];
+console.log(myArray.length == 3);
+var stdName = "shahid";
+console.log(stdName == "shahid");
+console.log(stdName === "shahid");
+var myschool = "government";
+console.log(myschool == "government");
+console.log(myschool === "government");
+var long = "Urdu";
+console.log(long == "Urdu");
+console.log(long === "Urdu");
